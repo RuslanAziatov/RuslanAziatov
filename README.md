@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<img src="https://github.com/RuslanAziatov/RuslanAziatov/blob/main/GzM5K.gif" alt="The Unlimeted" width="600">
+<img src="https://github.com/RuslanAziatov/RuslanAziatov/blob/main/GzM5K.gif" alt="The Unlimited" width="600">
